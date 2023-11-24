@@ -55,6 +55,8 @@ Non-trainable params: 384 (1.50 KB)
 _________________________________________________________________
 ```
 
+![Autoencoder_structure](The-structure-of-AE.png)
+
 ## Requirements
 
 - Python 3.x
